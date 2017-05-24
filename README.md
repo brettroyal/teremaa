@@ -1,1 +1,2 @@
 # teremaa
+# gitting started lol
